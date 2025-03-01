@@ -22,9 +22,9 @@
 
 ----
 * 6 CM :
-    * 0_Rappel_tableaux (complexité) et GIT 
-    * 2_gui (TK)
-    * 1_Dictionnaires
+    * 0_Rappel_tableaux (complexité) et GIT - done
+    * 2_gui (TK) - done
+    * 1_Dictionnaires - 
     * 3_FichiersTexte
     * 4 Modularité
     * Fonction de Hachage
