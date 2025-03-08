@@ -1,6 +1,6 @@
 import tkinter as tk
 
-CANVAS_WIDTH, CANVAS_HEIGHT = 600, 400
+CANVAS_WIDTH, CANVAS_HEIGHT = 400, 600
 
 root = tk.Tk()
 
