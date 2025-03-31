@@ -2,13 +2,6 @@
 
 # Le planning prévisionnel 2024/2025
 
-* Semaine du 10 février : pas de TD, cours 1 (rappel tableau +git)
-* Semaine du 17 février : TD1 (td et répartition des projets) + cours 2 (IHM)
-* Semaine du 24 février : Vacances
-* Semaine du 3 mars  : TD2 (IHM), cours 3 (dict) 
-* Semaine du 10 mars : TD3 (dict),  ---> CC1 en TD
-* Semaine du 17 mars : TD4 (Projet + évaluation intermédiaire  du projet), ---> CC2 , cours 4 (file, prog. modulaire)
-* Semaine 24 mars :   TD5 (file),  cours 5 (fct. hachage), 
 * Semaine 31 mars : TD6 (hachage),
 * Semaine du 7er avril : pas de TD,   Contrôle Amphi. ---> CC3
 * semaine 14 avril  TD 7 (Projet), 
@@ -17,17 +10,10 @@
 
 
 
-
  
 
 ----
 * 6 CM :
-    * 0_Rappel_tableaux (complexité) et GIT - done
-    * 2_gui (TK) - done
-    * 1_Dictionnaires - 
-    * 3_FichiersTexte
-    * 4 Modularité
-    * Fonction de Hachage
     * 5-Contrôle
 
  # Les projets
@@ -82,8 +68,6 @@
 
 ---
 * 3 évaluations en TD:
-    * CC1. Evaluation sur 5
-    * CC2. Evaluation sur 5 (évaluation intermédiaire du projet)
     * soutenance de projet
 * Un QCM au dernier créneau de cours
 
